@@ -1,0 +1,10 @@
+系统消息
+dwPageSize			4096
+lpMinimumapplicationAddress	00010000
+lpMaximumApplicationAddress	7FFEFFFF
+dwActiveProcessorMask		15
+dwNumberOfProcessors		4
+dwProcessorType			586
+dwAllocationGranularity		65536
+wProcessorLevel			6
+wProcessorRevision		17665

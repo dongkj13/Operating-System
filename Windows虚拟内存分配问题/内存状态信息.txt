@@ -1,0 +1,377 @@
+程序开始：
+模拟内存分配开始：
+内存状态
+dwAvailPhys	1505092KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+**************************************************
+保留内存
+起始地址：00030000	内存大小：4KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080828KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	4KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+提交内存
+起始地址：00030000	内存大小：4KB
+保护级别：PAGE_READONLY
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080828KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	4KB
+State	MEM_COMMIT
+Protect	PAGE_READONLY
+**************************************************
+锁定内存
+起始地址：00030000	内存大小：4KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080828KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	4KB
+State	MEM_COMMIT
+Protect	PAGE_READONLY
+**************************************************
+解锁内存
+起始地址：00030000	内存大小：4KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080828KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	4KB
+State	MEM_COMMIT
+Protect	PAGE_READONLY
+**************************************************
+回收内存
+起始地址：00030000	内存大小：4KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080828KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	4KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+释放内存
+起始地址：00030000	内存大小：4KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+内存基本信息
+AllocationProtect	does not have access
+RegionSize	64KB
+State	MEM_FREE
+Protect	PAGE_NOACCESS
+**************************************************
+保留内存
+起始地址：00030000	内存大小：8KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080824KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	8KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+提交内存
+起始地址：00030000	内存大小：8KB
+保护级别：PAGE_READWRITE
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080824KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	8KB
+State	MEM_COMMIT
+Protect	PAGE_READWRITE
+**************************************************
+锁定内存
+起始地址：00030000	内存大小：8KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080824KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	8KB
+State	MEM_COMMIT
+Protect	PAGE_READWRITE
+**************************************************
+解锁内存
+起始地址：00030000	内存大小：8KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080824KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	8KB
+State	MEM_COMMIT
+Protect	PAGE_READWRITE
+**************************************************
+回收内存
+起始地址：00030000	内存大小：8KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080824KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	8KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+释放内存
+起始地址：00030000	内存大小：8KB
+内存状态
+dwAvailPhys	1505008KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+内存基本信息
+AllocationProtect	does not have access
+RegionSize	64KB
+State	MEM_FREE
+Protect	PAGE_NOACCESS
+**************************************************
+保留内存
+起始地址：00030000	内存大小：12KB
+内存状态
+dwAvailPhys	1504948KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080820KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	12KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+提交内存
+起始地址：00030000	内存大小：12KB
+保护级别：PAGE_EXECUTE
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080820KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	12KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE
+**************************************************
+锁定内存
+起始地址：00030000	内存大小：12KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080820KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	12KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE
+**************************************************
+解锁内存
+起始地址：00030000	内存大小：12KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080820KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	12KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE
+**************************************************
+回收内存
+起始地址：00030000	内存大小：12KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080820KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	12KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+释放内存
+起始地址：00030000	内存大小：12KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+内存基本信息
+AllocationProtect	does not have access
+RegionSize	64KB
+State	MEM_FREE
+Protect	PAGE_NOACCESS
+**************************************************
+保留内存
+起始地址：00030000	内存大小：16KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080816KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	16KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+提交内存
+起始地址：00030000	内存大小：16KB
+保护级别：PAGE_EXECUTE_READ
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080816KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	16KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READ
+**************************************************
+锁定内存
+起始地址：00030000	内存大小：16KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080816KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	16KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READ
+**************************************************
+解锁内存
+起始地址：00030000	内存大小：16KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080816KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	16KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READ
+**************************************************
+回收内存
+起始地址：00030000	内存大小：16KB
+内存状态
+dwAvailPhys	1504828KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080816KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	16KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+释放内存
+起始地址：00030000	内存大小：16KB
+内存状态
+dwAvailPhys	1504708KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+内存基本信息
+AllocationProtect	does not have access
+RegionSize	64KB
+State	MEM_FREE
+Protect	PAGE_NOACCESS
+**************************************************
+保留内存
+起始地址：00030000	内存大小：20KB
+内存状态
+dwAvailPhys	1504708KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080812KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	20KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+提交内存
+起始地址：00030000	内存大小：20KB
+保护级别：PAGE_EXECUTE_READWRITE
+内存状态
+dwAvailPhys	1504708KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080812KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	20KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READWRITE
+**************************************************
+锁定内存
+起始地址：00030000	内存大小：20KB
+内存状态
+dwAvailPhys	1504708KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080812KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	20KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READWRITE
+**************************************************
+解锁内存
+起始地址：00030000	内存大小：20KB
+内存状态
+dwAvailPhys	1504708KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080812KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	20KB
+State	MEM_COMMIT
+Protect	PAGE_EXECUTE_READWRITE
+**************************************************
+回收内存
+起始地址：00030000	内存大小：20KB
+内存状态
+dwAvailPhys	1504716KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080812KB
+内存基本信息
+AllocationProtect	PAGE_NOACCESS
+RegionSize	20KB
+State	MEM_RESERVE
+Protect	does not have access
+**************************************************
+释放内存
+起始地址：00030000	内存大小：20KB
+内存状态
+dwAvailPhys	1504716KB
+dwAvailPageFile	3555964KB
+dwAvailVirtual	2080832KB
+内存基本信息
+AllocationProtect	does not have access
+RegionSize	64KB
+State	MEM_FREE
+Protect	PAGE_NOACCESS
+**************************************************
+程序结束：
+内存状态
+dwAvailPhys	1497088KB
+dwAvailPageFile	3549744KB
+dwAvailVirtual	2083392KB

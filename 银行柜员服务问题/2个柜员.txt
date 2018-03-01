@@ -1,0 +1,50 @@
+Customer 1 is coming.
+After 0 seconds, Customer 1 is called.
+Customer 1 is being servered by Server 0.
+Customer 2 is coming.
+After 0 seconds, Customer 2 is called.
+Customer 2 is being servered by Server 1.
+Customer 3 is coming.
+Customer 4 is coming.
+Customer 5 is coming.
+Customer 1 is serverd.
+After 6 seconds, Customer 3 is called.
+Customer 3 is being servered by Server 0.
+Customer 2 is serverd.
+After 4 seconds, Customer 4 is called.
+Customer 4 is being servered by Server 1.
+Customer 6 is coming.
+Customer 3 is serverd.
+After 4 seconds, Customer 5 is called.
+Customer 5 is being servered by Server 0.
+Customer 5 is serverd.
+After 1 seconds, Customer 6 is called.
+Customer 6 is being servered by Server 0.
+Customer 7 is coming.
+Customer 6 is serverd.
+After 1 seconds, Customer 7 is called.
+Customer 7 is being servered by Server 0.
+Customer 9 is coming.
+Customer 10 is coming.
+Customer 8 is coming.
+Customer 4 is serverd.
+After 2 seconds, Customer 9 is called.
+Customer 9 is being servered by Server 1.
+Customer 9 is serverd.
+After 5 seconds, Customer 10 is called.
+Customer 10 is being servered by Server 1.
+Customer 7 is serverd.
+After 6 seconds, Customer 8 is called.
+Customer 8 is being servered by Server 0.
+Customer 8 is serverd.
+Customer 10 is serverd.
+1 1 1 11 0
+2 3 3 12 1
+3 5 11 13 0
+4 8 12 22 1
+5 9 13 14 0
+6 13 14 19 0
+7 18 19 26 0
+8 20 26 28 0
+9 20 22 25 1
+10 20 25 29 1
